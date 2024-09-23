@@ -9,3 +9,5 @@
 [Дополнительные материалы](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/prereq_20240902_regexp.ipynb) - Регулярные выражения.
 
 [Лекция 2](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20240909.ipynb) - Библиотека типов Питона. Пример класса векторизации текста. Разреженные и плотные веторы. CountVectorizer, TfIdfVectorizer.
+
+[Лекция 3](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20240923_operators_decorators.ipynb) - Как устроены объекты, классы и типы в Питоне. Переопределение операторов. Декораторы. Передача параметров по умолчанию.
