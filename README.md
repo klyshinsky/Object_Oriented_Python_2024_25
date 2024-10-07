@@ -10,4 +10,6 @@
 
 [Лекция 2](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20240909.ipynb) - Библиотека типов Питона. Пример класса векторизации текста. Разреженные и плотные веторы. CountVectorizer, TfIdfVectorizer.
 
-[Лекция 3](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20240923_operators_decorators.ipynb) - Как устроены объекты, классы и типы в Питоне. Переопределение операторов. Декораторы. Передача параметров по умолчанию.
+[Лекции 3, 4](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20240923_operators_decorators.ipynb) - Как устроены объекты, классы и типы в Питоне. Переопределение операторов. Декораторы. Передача параметров по умолчанию.
+
+[Лекция 5](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/Lecture_20241007_requests.ipynb) - Библиотека requests для работы с HTTP. Библиотека BeautifulSoup для работы с HTML. XPath для запросов к "деревянной" структуре документа. Загрузка и обработка бинарных данных.
