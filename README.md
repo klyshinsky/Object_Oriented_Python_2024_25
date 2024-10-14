@@ -13,3 +13,6 @@
 [Лекции 3, 4](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20240923_operators_decorators.ipynb) - Как устроены объекты, классы и типы в Питоне. Переопределение операторов. Декораторы. Передача параметров по умолчанию.
 
 [Лекция 5](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/Lecture_20241007_requests.ipynb) - Библиотека requests для работы с HTTP. Библиотека BeautifulSoup для работы с HTML. XPath для запросов к "деревянной" структуре документа. Загрузка и обработка бинарных данных.
+
+[Лекция 6, 7](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20241014_Inheritance.ipynb) - @dataclass и namedtuple. Исключительные ситуации. Наследование. Абстрактные методы и классы. Статические методы, методы класса.
+
