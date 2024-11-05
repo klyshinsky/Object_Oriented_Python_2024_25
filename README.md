@@ -16,3 +16,4 @@
 
 [Лекция 6, 7](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20241014_Inheritance.ipynb) - @dataclass и namedtuple. Исключительные ситуации. Наследование. Абстрактные методы и классы. Статические методы, методы класса.
 
+[Лекция 8](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20241105_unittest.ipynb) - файлы конфигурации, сохранение результатов в docx, журналирование, юнит-тесты.
