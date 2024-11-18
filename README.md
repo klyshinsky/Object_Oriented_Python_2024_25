@@ -20,4 +20,4 @@
 
 [Лекция 9](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20241111_design_patterns.ipynb] - принципы SOLID. Шаблоны разработки классов.
 
-[Лекция 10](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20241118_software_design.pdf) - Принципы разработки программного обеспечения (презентация).
+[Лекция 10](https://github.com/klyshinsky/Object_Oriented_Python_2024_25/blob/main/lecture_20241118_software_design.pdf) - Принципы разработки программного обеспечения (презентация).
